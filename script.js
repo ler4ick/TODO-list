@@ -117,7 +117,3 @@ function saveEvents() {
     }
     eventsArr.push(...JSON.parse(localStorage.getItem(".to_do_list")));
   }
-
-function deleteEvent() {
-
-}
